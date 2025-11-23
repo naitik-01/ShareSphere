@@ -20,29 +20,10 @@ ShareSphere is a modern and user-friendly platform built to simplify ride sharin
 
 🏗️ Tech Stack
 Layer	Technology
-Frontend	HTML, CSS, JavaScript
+Frontend	HTML, CSS, JavaScript, Next.js
 Backend	FastAPI (Python)
 Database	SQLite
-Auth	Firebase Auth / Google OAuth
-Deployment	Render / AWS / Local (dev)
-📂 Folder Structure
-ShareSphere/
-│── backend/
-│   ├── main.py
-│   ├── database.py
-│   └── models.py
-│
-│── frontend/
-│   ├── index.html
-│   ├── login.html
-│   ├── ride.html
-│   ├── sharing.html
-│   └── assets/
-│       ├── css/
-│       └── js/
-│
-│── requirements.txt
-│── README.md
+Auth	Firebase Auth
 
 🚀 Setup & Run
 1️⃣ Clone the repository
