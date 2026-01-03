@@ -27,7 +27,7 @@ Auth	Firebase Auth
 
 🚀 Setup & Run
 1️⃣ Clone the repository
-git clone https://github.com/username/ShareSphere.git
+git clone https://github.com/naitik-01/ShareSphere.git
 cd ShareSphere
 
 2️⃣ Install dependencies
